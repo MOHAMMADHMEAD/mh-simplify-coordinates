@@ -1,0 +1,29 @@
+{
+  "name": "mh-simplify-coordinates",
+  "version": "1.0.1",
+  "description": "simplify coordinates by killometers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "git":"https://github.com/MOHAMMADHMEAD/mh-simplify-coordinates",
+  "keywords": [
+    "google map",
+    "lat",
+    "lng",
+    "simplify location",
+    "snap to road",
+    "snapped",
+    "maps",
+    "angular",
+    "react",
+    "map api",
+    "mapbox",
+    "simplify coordinates",
+    "simplify",
+    "points",
+    "coordinates"
+  ],
+  "author": "Mohammad Hmead",
+  "license": "ISC"
+}
